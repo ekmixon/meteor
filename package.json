@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/meteor/meteor#readme",
   "devDependencies": {
-    "@quave/eslint-config-quave": "^1.0.3"
+    "@quave/eslint-config-quave": "^1.0.5"
   },
   "eslintConfig": {
     "extends": [
